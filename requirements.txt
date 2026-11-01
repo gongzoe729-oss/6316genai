@@ -1,9 +1,2 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  2 00:02:43 2026
-
-@author: Zoego
-"""
-
 streamlit
 requests
